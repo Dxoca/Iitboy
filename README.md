@@ -12,5 +12,5 @@
 
 附送html5浮窗播放器插件，完美兼容本板子。虾米网易百度扣扣音乐接口。
 ![Image text](http://www.emlog.net/addons/templates/710/be1720bc39eb567da1acab14a0346091.png)
-![Image text](http://www.emlog.net/addons/templates/710/be1720bc39eb567da1acab14a0346091.png)
+![Image text](http://www.emlog.net/addons/templates/710/521ba1cf276cae2258810bdf9fcb4dd8.png)
 ![Image text](http://www.emlog.net/addons/templates/710/be1720bc39eb567da1acab14a0346091.png)
