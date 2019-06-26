@@ -11,6 +11,6 @@
 整合多种特效，清新唯美。平滑特效，全局pjax+响应式布局。完美兼容各种客户端
 
 附送html5浮窗播放器插件，完美兼容本板子。虾米网易百度扣扣音乐接口。
-![Image text](http://www.emlog.net/addons/templates/710/be1720bc39eb567da1acab14a0346091.png)
-![Image text](http://www.emlog.net/addons/templates/710/521ba1cf276cae2258810bdf9fcb4dd8.png)
-![Image text](http://www.emlog.net/addons/templates/710/be1720bc39eb567da1acab14a0346091.png)
+![Image text](https://github.com/Dxoca/Variety-Shop/blob/master/images/1.png)
+![Image text](https://github.com/Dxoca/Variety-Shop/blob/master/images/2.png)
+![Image text](https://github.com/Dxoca/Variety-Shop/blob/master/images/3.png)
