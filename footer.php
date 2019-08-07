@@ -1,6 +1,6 @@
 <?php 
 /**
- * 页面底部信息 www.iitboy.cn
+ * 页面底部信息 dxoca.cn
  */
 if(!defined('EMLOG_ROOT')) {exit('error!');} 
 ?>
@@ -12,7 +12,7 @@ if(!defined('EMLOG_ROOT')) {exit('error!');}
 	<a href="/">首页</a> &nbsp;&nbsp;
 <a href="<?php echo BLOG_URL; ?>m/" title="手机版本" target="_blank">手机版本</a> &nbsp;&nbsp;
 <a href="<?php echo BLOG_URL; ?>admin" class="hint--left hint--error" title="站长的后花园，闲人止步！ ^_^" >后花园</a>&nbsp;&nbsp;
-<a href="http://www.iitboy.cn/?plugin=yls_reg" title="会员注册" target="_blank">会员注册</a> &nbsp;&nbsp;
+<a href="https://dxoca.cn/?plugin=yls_reg" title="会员注册" target="_blank">会员注册</a> &nbsp;&nbsp;
 	<br>版权所有：<a href="<?php echo BLOG_URL; ?>" class="chaffle" data-lang="zh"><?php echo $blogname; ?></a>&nbsp;&nbsp;&nbsp;
 站长：<span class="chaffle" data-lang="zh">
 <?php
@@ -25,7 +25,7 @@ else:
 endif;
 ?>
 </span>&nbsp;&nbsp;&nbsp;
-<a href="http://www.iitboy.cn" target="_blank" class="hint--top hint--rounded" title="看看作者还有什么新鲜的“主题”勒？">主题</a>：<a href="http://www.iitboy.cn" class="hint--top hint--bounce" title="寒光唯美式V2.4.1" target="_blank">寒光唯美式V2.4.1</a><!--www.iitboy.cn-->&nbsp;
+<a href="https://dxoca.cn" target="_blank" class="hint--top hint--rounded" title="看看作者还有什么新鲜的“主题”勒？">主题</a>：<a href="http://www.iitboy.cn" class="hint--top hint--bounce" title="寒光唯美式V2.4.1" target="_blank">寒光唯美式V2.4.1</a><!--www.iitboy.cn-->&nbsp;
 <a href="http://www.emlog.net" class="hint--left hint--info" title="大名鼎鼎的emlog博客系统，地球人都在用。" target="_blank" class="shake">程序：emlog</a>&nbsp;&nbsp;
 <a href="http://www.miibeian.gov.cn" target="_blank"><?php echo $icp; ?></a>&nbsp;&nbsp;<?php echo $footer_info; ?>&nbsp;&nbsp;
 	<?php doAction('index_footer'); ?>
